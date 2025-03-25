@@ -1,0 +1,691 @@
+==============================================================
+Guild: chaos
+Channel: Chaos / order-66
+==============================================================
+
+[4/1/2024 1:22 AM] arkeii
+
+
+{Embed}
+Did a bunch of shit get deleted?
+rule_name
+Block Commonly Flagged Words
+channel_id
+1100519244489314384
+decision_id
+0ef71987d94d451da019fdd79714086f
+keyword
+shit
+keyword_matched_content
+shit
+
+
+[4/1/2024 1:23 AM] arkeii
+
+
+{Embed}
+The fuck
+rule_name
+Block Commonly Flagged Words
+channel_id
+1100519244489314384
+decision_id
+d4b7b6f4774c4efe92ba8bb1cd4509d8
+keyword
+fuck
+keyword_matched_content
+fuck
+
+
+[4/1/2024 1:29 AM] yimyum_ch
+
+
+{Embed}
+fuck
+rule_name
+Block Commonly Flagged Words
+channel_id
+1100519244489314384
+decision_id
+56a94dd3a5d848cf8a8dd17932a5d2a5
+keyword
+fuck
+keyword_matched_content
+fuck
+
+
+[4/1/2024 1:29 AM] yimyum_ch
+
+
+{Embed}
+shit
+rule_name
+Block Commonly Flagged Words
+channel_id
+1100519244489314384
+decision_id
+5d180d638d0742e7a6fc9a4b99f13fe7
+keyword
+shit
+keyword_matched_content
+shit
+
+
+[4/1/2024 1:30 AM] arkeii
+
+
+{Embed}
+Did some bitch leak this shit to ur school?
+rule_name
+Block Commonly Flagged Words
+channel_id
+1100519244489314384
+decision_id
+34bde60522f942f4a8f88828fd25650c
+keyword
+bitch
+keyword_matched_content
+bitch
+
+
+[4/1/2024 1:30 AM] arkeii
+
+
+{Embed}
+Did some cunt leak shit to ur school
+rule_name
+Block Commonly Flagged Words
+channel_id
+1100519244489314384
+decision_id
+d9da2968d2af488893f6066990fe6a27
+keyword
+cunt
+keyword_matched_content
+cunt
+
+
+[4/1/2024 1:30 AM] arkeii
+
+
+{Embed}
+Did some guy leak shit to ur school
+rule_name
+Block Commonly Flagged Words
+channel_id
+1100519244489314384
+decision_id
+c504a47ed9264350856c85574ac5fec2
+keyword
+shit
+keyword_matched_content
+shit
+
+
+[4/1/2024 10:57 AM] treemoss28
+
+
+{Embed}
+OU SHIT HES THE ANTICHRIST
+rule_name
+Block Commonly Flagged Words
+channel_id
+1224203485734637578
+decision_id
+f93ca5fe33414e1596739e5a39c7a2a8
+keyword
+shit
+keyword_matched_content
+SHIT
+
+
+[4/1/2024 12:52 PM] bulbusarues
+
+
+{Embed}
+What a shitty chancellor
+rule_name
+Block Commonly Flagged Words
+channel_id
+1224203485734637578
+decision_id
+05d13c61bd1e485894e189e56667caf2
+keyword
+shitty
+keyword_matched_content
+shitty
+
+
+[4/1/2024 2:28 PM] carbon.tetrachloride
+
+
+{Embed}
+the fuck then why is roblox complaining
+rule_name
+Block Commonly Flagged Words
+channel_id
+1224203485734637578
+decision_id
+2df8840ad8144f95b61255d86fca2794
+keyword
+fuck
+keyword_matched_content
+fuck
+
+
+[4/1/2024 2:50 PM] cody41
+
+
+{Embed}
+shit
+rule_name
+Block Commonly Flagged Words
+channel_id
+1224203485734637578
+decision_id
+896f08a7f4254dce9cfe402c0c4a4320
+keyword
+shit
+keyword_matched_content
+shit
+
+
+[4/1/2024 2:50 PM] the_baller47
+
+
+{Embed}
+I will be an asshole to English and let the server vote on one person to ban
+rule_name
+Block Commonly Flagged Words
+channel_id
+1224203485734637578
+decision_id
+0f33d4e63f6744ee9ebdd5d6190551f2
+keyword
+asshole
+keyword_matched_content
+asshole
+
+
+[4/1/2024 2:50 PM] cody41
+
+
+{Embed}
+fuck
+rule_name
+Block Commonly Flagged Words
+channel_id
+1224203485734637578
+decision_id
+97d42e06a3054ba2b3be38779d9faa04
+keyword
+fuck
+keyword_matched_content
+fuck
+
+
+[4/1/2024 2:51 PM] vsarca
+
+
+{Embed}
+fuck
+rule_name
+Block Commonly Flagged Words
+channel_id
+1224203485734637578
+decision_id
+0555206615d547d3bab67c0c6738c2e4
+keyword
+fuck
+keyword_matched_content
+fuck
+
+
+[4/1/2024 2:51 PM] yimyum_ch
+
+
+{Embed}
+fuck
+rule_name
+Block Commonly Flagged Words
+channel_id
+1224203485734637578
+decision_id
+294302d777b2472b977de3d1f39340fb
+keyword
+fuck
+keyword_matched_content
+fuck
+
+
+[4/1/2024 2:51 PM] cody41
+
+
+{Embed}
+fuck.
+rule_name
+Block Commonly Flagged Words
+channel_id
+1224203485734637578
+decision_id
+444225a25d8b4120b7b587bdc04da6d3
+keyword
+fuck
+keyword_matched_content
+fuck.
+
+
+[4/1/2024 2:51 PM] cody41
+
+
+{Embed}
+fu.ck
+rule_name
+Block Commonly Flagged Words
+channel_id
+1224203485734637578
+decision_id
+5a2937de14324cf2b5da9103417bb38e
+keyword
+fuck
+keyword_matched_content
+fu.ck
+
+
+[4/1/2024 2:51 PM] cody41
+
+
+{Embed}
+cum
+rule_name
+Block Commonly Flagged Words
+channel_id
+1224203485734637578
+decision_id
+250f6b1a91dd4750ad92a53d4625943b
+keyword
+cum
+keyword_matched_content
+cum
+
+
+[4/1/2024 2:52 PM] cody41
+
+
+{Embed}
+cumm is censored
+rule_name
+Block Custom Words
+channel_id
+1224203485734637578
+decision_id
+e33454ec75f24f0eb5acce5ad27aeea8
+keyword
+*cum*
+keyword_matched_content
+cumm
+
+
+[4/1/2024 2:52 PM] vsarca
+
+
+{Embed}
+go kys
+rule_name
+Block Commonly Flagged Words
+channel_id
+1224203485734637578
+decision_id
+1528d48cfdac4019b339f2b04f5381e7
+keyword
+kys
+keyword_matched_content
+kys
+
+
+[4/1/2024 2:52 PM] cody41
+
+
+{Embed}
+kys
+rule_name
+Block Commonly Flagged Words
+channel_id
+1224203485734637578
+decision_id
+b20634d1ef0642be893d66459f0f03ca
+keyword
+kys
+keyword_matched_content
+kys
+
+
+[4/1/2024 2:52 PM] the_baller47
+
+
+{Embed}
+Anal sex
+rule_name
+Block Commonly Flagged Words
+channel_id
+1224203485734637578
+decision_id
+7f3f25bc9af040758ec52d880075ed02
+keyword
+anal sex
+keyword_matched_content
+Anal sex
+
+
+[4/1/2024 2:52 PM] the_baller47
+
+
+{Embed}
+Sex
+rule_name
+Block Custom Words
+channel_id
+1224203485734637578
+decision_id
+781385ac0f554a2c9f3be66d9a881eec
+keyword
+sex
+keyword_matched_content
+Sex
+
+
+[4/1/2024 2:53 PM] yimyum_ch
+
+
+{Embed}
+fuck
+rule_name
+Block Commonly Flagged Words
+channel_id
+1224203485734637578
+decision_id
+64e8a213916841fa9be39fee89d39667
+keyword
+fuck
+keyword_matched_content
+fuck
+
+
+[4/1/2024 2:53 PM] yimyum_ch
+
+
+{Embed}
+poushie fucking sucks
+rule_name
+Block Commonly Flagged Words
+channel_id
+1224203485734637578
+decision_id
+c341d803ea9d4bfe91ff42b39d54e168
+keyword
+fucking
+keyword_matched_content
+fucking
+
+
+[4/1/2024 2:56 PM] the_baller47
+
+
+{Embed}
+Cock
+rule_name
+Block Commonly Flagged Words
+channel_id
+1224203485734637578
+decision_id
+343bea9932dc4f3f83320a093210288f
+keyword
+cock
+keyword_matched_content
+Cock
+
+
+[4/1/2024 3:11 PM] bulbusarues
+
+
+{Embed}
+grinding points take so fucking long
+rule_name
+Block Commonly Flagged Words
+channel_id
+1224203485734637578
+decision_id
+f1a2b142f7194e02800bd7e5f40295e8
+keyword
+fucking
+keyword_matched_content
+fucking
+
+
+[4/1/2024 5:00 PM] the_baller47
+
+
+{Embed}
+Fuck
+rule_name
+Block Commonly Flagged Words
+channel_id
+1224203485734637578
+decision_id
+3003aeb1e50149ecbcc6a2f15fa8e931
+keyword
+fuck
+keyword_matched_content
+Fuck
+
+
+[4/1/2024 5:00 PM] bulbusarues
+
+
+{Embed}
+Balls
+rule_name
+Block Custom Words
+channel_id
+1224203485734637578
+decision_id
+e5abd90cc644412aa3d0b2e76797caef
+keyword
+balls
+keyword_matched_content
+Balls
+
+
+[4/1/2024 5:08 PM] the_baller47
+
+
+{Embed}
+Fuck who was that?
+rule_name
+Block Commonly Flagged Words
+channel_id
+1224203485734637578
+decision_id
+aa1e9eda3811428ea326e84aff39e9f4
+keyword
+fuck
+keyword_matched_content
+Fuck
+
+
+[4/1/2024 5:27 PM] silverstar15
+
+
+{Embed}
+the french are like asshole hairs that become ingrown when shave; disgusting always, despite changes in their states
+rule_name
+Block Commonly Flagged Words
+channel_id
+1224385893452877864
+decision_id
+06bd64ee72fa4dbab9462e26b9f80e75
+keyword
+asshole
+keyword_matched_content
+asshole
+
+
+[4/1/2024 5:27 PM] bericprime
+
+
+{Embed}
+fuck
+rule_name
+Block Commonly Flagged Words
+channel_id
+1224203485734637578
+decision_id
+5616c5815be1472ba65e86fd14a438f1
+keyword
+fuck
+keyword_matched_content
+fuck
+
+
+[4/1/2024 5:27 PM] bericprime
+
+
+{Embed}
+sex
+rule_name
+Block Custom Words
+channel_id
+1224203485734637578
+decision_id
+62a012c0d0224e6d8085ba3ac68fda7e
+keyword
+sex
+keyword_matched_content
+sex
+
+
+[4/1/2024 5:27 PM] silverstar15
+
+
+{Embed}
+shit
+rule_name
+Block Commonly Flagged Words
+channel_id
+1224203485734637578
+decision_id
+d2605256309440109d958eb0f9c0f6d5
+keyword
+shit
+keyword_matched_content
+shit
+
+
+[4/1/2024 5:32 PM] _sambooga
+
+
+{Embed}
+fuck
+rule_name
+Block Commonly Flagged Words
+channel_id
+1224203485734637578
+decision_id
+a7cd045190314063a5d797aacfb6a33c
+keyword
+fuck
+keyword_matched_content
+fuck
+
+
+[4/1/2024 5:52 PM] carbon.tetrachloride
+
+
+{Embed}
+HOLY SHIT
+rule_name
+Block Commonly Flagged Words
+channel_id
+1224203485734637578
+decision_id
+1ad96870334d4af3b98801727fa694d8
+keyword
+shit
+keyword_matched_content
+SHIT
+
+
+[4/1/2024 10:46 PM] bericprime
+https://tenor.com/view/fire-writing-gif-24533171
+
+{Embed}
+https://tenor.com/view/fire-writing-gif-24533171
+https://images-ext-1.discordapp.net/external/03z6shxHPOjB-wQhjN1U9L6nkvrGDe1MMuy7VUkanxM/https/media.tenor.com/dxPl_UoR8J0AAAAe/fire-writing.png
+
+
+[4/1/2024 10:46 PM] bericprime
+
+
+{Attachments}
+https://cdn.discordapp.com/attachments/1224199877362192506/1224550412728799292/image.png?ex=67e41331&is=67e2c1b1&hm=1e9e4663fa83d7977ab9b6cea798dbfb4b509d04a5cfc6bc068a06830b27b065&
+
+
+[4/1/2024 10:46 PM] bulbusarues
+🔥 🔥 ✍️
+
+
+[4/2/2024 12:11 AM] poushie
+In Progress
+https://www.youtube.com/watch?v=ko7u2NOiD5Y
+
+{Embed}
+Fulcrum Fan Edits
+https://www.youtube.com/watch?v=ko7u2NOiD5Y
+Order 66 - Fall of the Republic - Jedi Purge
+execute order 66
+
+starwars revenge of the sith
+https://images-ext-1.discordapp.net/external/hweqeYRL84UP7oK2obabQKvvdUMOfkFUi2GzydRu344/https/i.ytimg.com/vi/ko7u2NOiD5Y/maxresdefault.jpg
+
+
+[4/2/2024 12:12 AM] poushie
+
+
+{Attachments}
+https://cdn.discordapp.com/attachments/1224199877362192506/1224572094495330324/image.png?ex=67e37ea2&is=67e22d22&hm=e11f8320abb8dd50dab6e587be1f0411e95f6f94f994e8432ee4abd3637b1183&
+
+
+[4/2/2024 12:59 AM] poushie
+April Fools
+
+
+[4/21/2024 3:40 PM] treemoss28
+Fuck
+
+
+[10/13/2024 7:32 PM] bulbusarues
+
+
+{Attachments}
+https://cdn.discordapp.com/attachments/1224199877362192506/1295167383597744148/image.png?ex=67e3e5df&is=67e2945f&hm=b4923a4975fe54eb0ff4ecec8944bae568febd559f229e04b3ea02057a7e8e94&
+
+
+[10/13/2024 7:33 PM] bericprime
+@Mizook stop
+
+
+[10/14/2024 2:59 AM] silverstar15
+https://tenor.com/view/500-cigarettes-the-orville-gif-7999465420984481267
+
+{Embed}
+https://tenor.com/view/500-cigarettes-the-orville-gif-7999465420984481267
+https://images-ext-1.discordapp.net/external/uo4vmI6pfYuDc0py25rHNc_8bxaGWvYCAdY4KibyLcs/https/media.tenor.com/bwPPatrM9fMAAAAe/500-cigarettes-the-orville.png
+
+
+[10/14/2024 9:46 AM] bericprime
+thank you klyden and bortus
+
+
+==============================================================
+Exported 47 message(s)
+==============================================================
